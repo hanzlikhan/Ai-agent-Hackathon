@@ -1,5 +1,5 @@
-streamlit
-pandas
-python-dotenv
-openai  # For Together API access
-plotly  # For interactive visualizations
+streamlit==1.16.0
+pandas==2.0.2
+openai==1.0.0
+plotly==5.9.0
+python-dotenv==1.0.0
